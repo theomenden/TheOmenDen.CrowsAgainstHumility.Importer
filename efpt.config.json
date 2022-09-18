@@ -1,0 +1,47 @@
+﻿{
+   "CodeGenerationMode": 2,
+   "ContextClassName": "TheOmenDen.CrowsAgainstHumility.DbContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": true,
+   "ModelNamespace": null,
+   "OutputContextPath": "contexts",
+   "OutputPath": "Models",
+   "ProjectRootNamespace": "TheOmenDen.CrowsAgainstHumility.Importer",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "Name": "[dbo].[BlackCards]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Packs]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[WhiteCards]",
+         "ObjectType": 0
+      }
+   ],
+   "UiHint": "LAPTOP-6O1FBDRV.TheOmenDen.CrowsAgainstHumility.Db",
+   "UseBoolPropertiesWithoutDefaultSql": true,
+   "UseDatabaseNames": true,
+   "UseDbContextSplitting": true,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": true,
+   "UseLegacyPluralizer": true,
+   "UseManyToManyEntity": false,
+   "UseNoConstructor": true,
+   "UseNoDefaultConstructor": true,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": true,
+   "UseSchemaFolders": false,
+   "UseSpatial": false
+}
